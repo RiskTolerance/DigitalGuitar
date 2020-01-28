@@ -69,6 +69,7 @@ h3 {
 }
 
 .playing {
+    transform: scale(1.1);
     color: orange;
     border-color: orange;
     box-shadow: 0 0 5px orange;
